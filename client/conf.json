@@ -1,0 +1,6 @@
+{
+	"job_servers": [
+
+		{"server":"localhost","port":"4730"}
+	]
+}

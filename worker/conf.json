@@ -1,0 +1,11 @@
+{
+	"job_servers": [
+
+                {"server":"192.168.0.21","port":"4730"}
+        ],
+	"jobs":[
+		{"task1":"/usr/local/bin/script1.sh"},
+		{"task2":"/usr/local/bin/script2.sh"}
+	],
+	"debug":"true"
+}
