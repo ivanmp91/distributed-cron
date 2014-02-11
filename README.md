@@ -5,7 +5,8 @@ The clients just will send the name of the task to the job server that will gets
 
 ./cron_client.pl --tasks task1 task2
 
-Project DIRECTORY STRUCTURE
+PROJECT DIRECTORY STRUCTURE
+================
 - bin: we've the scripts for the workers & clients.
 - client: perl modules for the gearman clients.
 - worker: perl modules for gearman workers.
